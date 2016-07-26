@@ -1,2 +1,2 @@
 # RealEstateCI
-<?php echo "jay"?>
+<?php echo "jay"; exit;?>
